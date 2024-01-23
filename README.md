@@ -22,7 +22,7 @@ This is a simple Python script for capturing images from a webcam and saving the
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/AmmarMohamed0/Webcam Image Capture.git
+    https://github.com/AmmarMohamed0/Webcam-Image-Capture.git
     ```
 
 2. Install dependencies:
